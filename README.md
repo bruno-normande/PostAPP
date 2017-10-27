@@ -8,5 +8,5 @@ Lista de contribuidores:
 
 * David
  
-*Alicya
+* Alicya
 
