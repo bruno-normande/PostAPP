@@ -8,3 +8,6 @@ Lista de contribuidores:
 
 * David 
 * Carla
+* Alicya
+
+
