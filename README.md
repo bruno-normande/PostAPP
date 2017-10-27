@@ -8,8 +8,9 @@ Lista de contribuidores:
 
 
 * David 
-* Carla
-* Alicya
-* Mariane
-* Daniel
 * Mariane 
+* Alicya
+* Daniel
+* Carla 
+* Angélica
+
