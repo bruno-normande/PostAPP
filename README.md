@@ -14,9 +14,17 @@ Lista de contribuidores:
 * Alicya
 
 * David
- 
+
+* Mariane 
+
 * Alicya
 
 * Daniel
 
 * Wanderson
+
+* Carla 
+
+* Angélica
+
+
