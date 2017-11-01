@@ -34,3 +34,17 @@ Lista de contribuidores:
 * Manoela
 
 * Pedro
+
+Backend *
+
+Participantes; 
+Daniel - Gerente
+David 
+Mariane
+Eliane
+Ingrid
+Carla
+
+Lingaguem:  Java
+
+Framework: spring boot
