@@ -1,9 +1,9 @@
 
-Descrição* 
+Descrição:
 É um aplicativo que servirá para comparar os combustíveis mais baratos da região, mostrando desta forma o que cada posto oferece em geral e as melhores ofertas. 
 
 
-Lista de contribuidores do Back-End: 
+Lista de Contribuidores do Back-End: 
 
 * David 
 
@@ -19,11 +19,11 @@ Lista de contribuidores do Back-End:
 
 Lingaguem:  Java
 
-Framework: spring boot
+Framework: Spring boot
 
 
 
-Lista de Contruibuídores Front-End:
+Lista de Contruibuidores Front-End:
 
 * Wanderson
 
