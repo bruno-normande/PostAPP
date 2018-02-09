@@ -1,49 +1,21 @@
 
-DescriÁ„o* 
-… um aplicativo que servir· para comparar os combustÌveis mais baratos da regi„o, mostrando desta forma o que cada posto oferece em geral e as melhores ofertas. 
+Descri√ß√£o* 
+√â um aplicativo que servir√° para comparar os combust√≠veis mais baratos da regi√£o, mostrando desta forma o que cada posto oferece em geral e as melhores ofertas. 
 
- Passos para InstalaÁ„o: 
 
-Lista de contribuidores: 
-
+Lista de contribuidores do Back-End: 
 
 * David 
 
 * Mariane
 
-* Alicya
-
-* David
-
-* Mariane 
-
-* Alicya
-
 * Daniel
-
-* Wanderson
 
 * Carla 
 
-* AngÈlica
-
 * Eliane
 
-* Antonio
 
-* Manoela
-
-* Pedro
-
-Backend *
-
-Participantes; 
-Daniel - Gerente
-David 
-Mariane
-Eliane
-Ingrid
-Carla
 
 Lingaguem:  Java
 
@@ -51,43 +23,44 @@ Framework: spring boot
 
 
 
-Frontend *
+Lista de Contruibu√≠dores Front-End:
 
-Participantes;
-Wanderson - Gerente
-Alycia
-Carol
-Angelica
-Messias
-Pedro
-Manoela
+* Wanderson
 
-Identidade visual: È o conjunto de elementos formais que representa visualmente, 
-e de forma sistematizada, um nome, ideia, produto, empresa, instituiÁ„o ou serviÁo. 
+* Alycia
+
+* Messias
+
+* Pedro
+
+* Manoela
+
+Identidade visual: √© o conjunto de elementos formais que representa visualmente, 
+e de forma sistematizada, um nome, ideia, produto, empresa, institui√ß√£o ou servi√ßo. 
 Esse conjunto de elementos costuma ter como base o logotipo, 
-um sÌmbolo visual que se complementa nos cÛdigos de cores, das tipografias, nos grafismos, em personagens, 
-nas personalidades e outros componentes que reforÁam o conceito a ser comunicado atravÈs dessa imagem como o Slogan ou Tag lines, 
-que cumprem este papel. Resumidamente a Identidade Visual È a imagem ampliada da marca.
+um s√≠mbolo visual que se complementa nos c√≥digos de cores, das tipografias, nos grafismos, em personagens, 
+nas personalidades e outros componentes que refor√ßam o conceito a ser comunicado atrav√©s dessa imagem como o Slogan ou Tag lines, 
+que cumprem este papel. Resumidamente a Identidade Visual √© a imagem ampliada da marca.
 
 
-Android: È um sistema operacional (SO) baseado no n˙cleo Linux e atualmente desenvolvido pela empresa de tecnologia Google.
-Com uma interface de usu·rio baseada na manipulaÁ„o direta, 
-o Android È projetado principalmente para dispositivos mÛveis com tela sensÌvel ao toque como smartphones e tablets; 
-com interface especÌfica para TV (Android TV), carro (Android Auto) e relÛgio de pulso (Android Wear). 
-O sistema operacional utiliza-se da tela sensÌvel ao toque para que o usu·rio possa manipular objetos virtuais
-e tambÈm de um teclado virtual. Apesar de ser principalmente utilizado em dispositivos com tela sensÌvel ao toque, 
-tambÈm È utilizado em consoles de videogames, c‚meras digitais, computadores e outros dispositivos eletrÙnicos.
+Android: √© um sistema operacional (SO) baseado no n√∫cleo Linux e atualmente desenvolvido pela empresa de tecnologia Google.
+Com uma interface de usu√°rio baseada na manipula√ß√£o direta, 
+o Android √© projetado principalmente para dispositivos m√≥veis com tela sens√≠vel ao toque como smartphones e tablets; 
+com interface espec√≠fica para TV (Android TV), carro (Android Auto) e rel√≥gio de pulso (Android Wear). 
+O sistema operacional utiliza-se da tela sens√≠vel ao toque para que o usu√°rio possa manipular objetos virtuais
+e tamb√©m de um teclado virtual. Apesar de ser principalmente utilizado em dispositivos com tela sens√≠vel ao toque, 
+tamb√©m √© utilizado em consoles de videogames, c√¢meras digitais, computadores e outros dispositivos eletr√¥nicos.
 
 
-REST: È uma abstraÁ„o da arquitetura da World Wide Web (Web), 
-um estilo arquitetural que consiste de um conjunto coordenado de restriÁıes arquiteturais aplicadas a componentes, 
-conectores e elementos de dados dentro de um sistema de hipermÌdia distribuÌdo. 
-O REST ignora os detalhes da implementaÁ„o de componente
-e a sintaxe de protocolo com o objetivo de focar nos papÈis dos componentes, 
-nas restriÁıes sobre sua interaÁ„o com outros componentes e na sua interpretaÁ„o de elementos de dados significantes.
+REST: √© uma abstra√ß√£o da arquitetura da World Wide Web (Web), 
+um estilo arquitetural que consiste de um conjunto coordenado de restri√ß√µes arquiteturais aplicadas a componentes, 
+conectores e elementos de dados dentro de um sistema de hiperm√≠dia distribu√≠do. 
+O REST ignora os detalhes da implementa√ß√£o de componente
+e a sintaxe de protocolo com o objetivo de focar nos pap√©is dos componentes, 
+nas restri√ß√µes sobre sua intera√ß√£o com outros componentes e na sua interpreta√ß√£o de elementos de dados significantes.
 
 
-API: È um conjuto do software para a utilizaÁ„o das suas funcionalidades por aplicativos que 
-n„o pretendem envolver-se em detalhes da implementaÁ„o de software, mas apenas usar seus serviÁos.
-De modo geral, a API È composta por uma sÈrie de funÁıes acessÌveis somente por programaÁ„o, 
-e que permitem utilizar caracterÌsticas do software menos evidentes ao utilizador tradicional.
+API: √© um conjuto do software para a utiliza√ß√£o das suas funcionalidades por aplicativos que 
+n√£o pretendem envolver-se em detalhes da implementa√ß√£o de software, mas apenas usar seus servi√ßos.
+De modo geral, a API √© composta por uma s√©rie de fun√ß√µes acess√≠veis somente por programa√ß√£o, 
+e que permitem utilizar caracter√≠sticas do software menos evidentes ao utilizador tradicional.
